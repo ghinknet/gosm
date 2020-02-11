@@ -2,36 +2,27 @@
 
 #### 介绍
 最新版跨编译器平台镜像管理器
+本程序页面样式来源清华大学TUNA团队运行的开源镜像网站
+本程序即GeMirrors
 
-#### 软件架构
-软件架构说明
+#### 软件鸣谢
+清华大学TUNA团队
 
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  配置任意主流编译器平台（IIS/Nginx/Apache/kangle）
+2.  配置PHP环境（7.0/7.1）
+3.  配置rsync同步
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  推荐IIS优先，本程序在IIS下测试有效
+2.  推荐PHP7.1优先，本程序在PHP7.1+IIS下测试有效
+3.  目录中禁止出现中文字符，否则将导致目录无法访问
+（暂时无法修复，如果有解决方案请联系本项目负责人E-Mail:bigsk@qq.com）
 
 #### 参与贡献
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 码云特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1.  @Bigsk
+2.  @tuna
