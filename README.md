@@ -8,7 +8,7 @@
 
 本程序即GeMirrors
 
-官方站点：[https://mirrors.ghink.net/](https://mirrors.ghink.net/)
+官方站点：[http://mirrors.ghink.net/](http://mirrors.ghink.net/)
 
 清华大学镜像站：[https://mirrors.tuna.tsinghua.edu.cn/](https://mirrors.tuna.tsinghua.edu.cn/)
 
