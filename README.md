@@ -1,11 +1,19 @@
 # Ghink Open Source Mirror
 
 #### 介绍
+
 最新版跨编译器平台镜像管理器
+
 本程序页面样式来源清华大学TUNA团队运行的开源镜像网站
+
 本程序即GeMirrors
 
+官方站点：[https://mirrors.ghink.net/](https://mirrors.ghink.net/)
+
+清华大学镜像站：[https://mirrors.tuna.tsinghua.edu.cn/](https://mirrors.tuna.tsinghua.edu.cn/)
+
 #### 软件鸣谢
+
 清华大学TUNA团队
 
 
