@@ -1,5 +1,5 @@
 #------------------#
-import bs4,requests,urllib,time,threading
+import bs4,requests,urllib,time,threading,os
 #------------------#
 
 class MultiThreadDownload(threading.Thread):
@@ -93,4 +93,7 @@ class GOSManager(object):
             if(i not in ListReturn):
                 ListReturn.append(i)
         return ListReturn
+    def RsyncSync(self,From,To):
+        os.system("rsync -avrt "+From+" "+To)
+    
 
