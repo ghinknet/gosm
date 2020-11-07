@@ -80,7 +80,6 @@ class GOSManager(object):
                             urlGet=url+h['href']
                         #Avoid outside link
                         if(domain in urlGet):
-                            print(urlGet)
                             #Recursion to get all links
                             List.extend(HttpSync(urlGet,domain))
                             #Avoid record any links link to dirs
